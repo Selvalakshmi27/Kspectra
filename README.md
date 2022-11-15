@@ -30,3 +30,5 @@ Three files are generated as the output:
 - kmer_spectra.png
 
 Sample output files and reference e.coli genome is found under Example folder
+
+
