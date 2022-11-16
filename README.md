@@ -1,5 +1,7 @@
 # Kspectra
-Generate k-mer spectra from fasta sequences to observe modalities of distribution.
+Generate k-mer spectra from a complete genome to observe modalities of distribution.
+![image](https://user-images.githubusercontent.com/92817251/202269233-694e8958-c84e-4575-9783-8bb3bdcbc7dd.png)
+
 
 ## Author
 - Selvalakshmi (https://github.com/Selvalakshmi27)
