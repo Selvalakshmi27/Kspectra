@@ -31,6 +31,6 @@ Three files are generated as the output:
 - kmer_frequency.txt
 - kmer_spectra.png
 
-Sample output files and reference e.coli genome is found under Example folder
+Sample output files and reference e.coli genome is found under Example folder. 
 
 
